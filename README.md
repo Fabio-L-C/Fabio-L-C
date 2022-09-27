@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello World 👋
 
 <!--
 **Fabio-L-C/Fabio-L-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Linguagens de desenvolvimento
+### Linguagens de desenvolvimento
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-#### Bancos de Dados
+### Bancos de Dados
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
